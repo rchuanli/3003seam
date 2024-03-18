@@ -31,5 +31,8 @@ public class Result {
      		return;
 	}
 	
+    countAll() {
+        return 0;
+    }
 
 }
