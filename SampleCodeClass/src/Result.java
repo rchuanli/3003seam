@@ -27,6 +27,7 @@ public class Result {
     void testAll()
  	{
      		System.out.println("Hello");
+            System.out.println("World");
      		return;
 	}
 	
